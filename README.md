@@ -1,4 +1,4 @@
-# visionbased Human Motion Analysis In Gymnastics
+# Visionbased Human Motion Analysis In Gymnastics
 
 This repository contains code for the paper 'Vision Based Human Motion Analysis In Gymnastics' written by Sofus Konglevoll, Morten Holck and Gustav Bakhauge. 
 
